@@ -1,2 +1,1 @@
-Linux assignment completed in AWS EC2.
-Screenshots attached in this repository.
+Guvi Assignment & tasks are submitted in this Repo
